@@ -29,8 +29,38 @@
 #         y += 1
 #     x += 1
 
-valid = False
+# valid = False
+#
+# while not valid:
+#     s = input()
+#     valid = len(s) == 5 and s[:2] == 'xy'
 
-while not valid:
-    s = input()
-    valid = len(s) == 5 and s[:2] == 'xy'
+# s = 'motorcycle'
+# s = 'zephyr'
+# i = 0
+
+# for i in range(0, len(str), 2):
+#     print(str[i])
+
+# for i in range(len(s) - 1, -1, -1):
+#     print(s[i])
+
+# while i < len(s):
+#     print('we have ' + s[i])
+#     i += 1
+
+# i = len(s) - 1
+#
+# while i >= 0:
+#     print(s[i])
+#     i -= 1
+
+# while i < len(s) and s[i] != 'y':
+#     i += 1
+#
+# print(i)
+
+# while i < len(s) and s[i] != 'b':
+#     i += 1
+#
+# print(i)
